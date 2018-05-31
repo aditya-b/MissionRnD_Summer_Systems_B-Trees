@@ -29,5 +29,19 @@
     <ClCompile Include="ConsoleApplication1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tables_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="students.csv">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Data.dat">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
